@@ -4,7 +4,7 @@ Day 2 of my daily AI project challenge.
 
 A small Python tool that reads an SMS-style message and says if it is spam or ham (legitimate), with a confidence score. It uses TF-IDF features (single words and word pairs) with a Multinomial Naive Bayes classifier from scikit-learn.
 
-![Demo output](demo.png)
+![Demo output](7-demo.png)
 
 ## Results
 
